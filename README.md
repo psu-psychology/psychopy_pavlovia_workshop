@@ -1,7 +1,9 @@
 # Psychopy Pavlovia Workshop
 
 These files support a set of workshops that Allison Link presented to the Penn State Cognitive Area on 2020-09-02.
-The workshop(s) focus on the use of PsychoPy and Pavlovia
+The workshop(s) focus on the use of PsychoPy and Pavlovia.
+
+Instructions for installing PsychoPy on Mac OS and Windows can be found in [this PDF](pdf/PsychoPy_Python_Installation.pdf).
 
 ## Components
 

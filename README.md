@@ -17,4 +17,4 @@ Instructions for installing PsychoPy on Mac OS and Windows can be found in [this
 - [consent_form/](consent_form) shows a PsychoPy study with components that collect participant consent.
 - [headphone_check/](headphone_check) shows a PsychoPy study with components that check whether a participant has headphones on.
 - [rate_images/](rate_images) shows a PsychoPy study with components that gather image rates.
-- [set_sona_url/](set_sona_url) contains step-by-step guides for setting experiment and redirection URLs specific to experiments that requires counterbalancing versus not 
+- [set_sona_url/](set_sona_url) contains step-by-step guides for setting experiment and redirection URLs specific to experiments that require counterbalancing versus not 

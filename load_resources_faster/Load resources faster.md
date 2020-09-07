@@ -38,8 +38,6 @@ function load_sound(src) {
 
 3.  If your resources list is already defined by codes, go straight ahead to step 4. This workaround is comparible with condition lists imported from Excel sheets as well, but it's advised against. What works in our favor is that coding up condition lists is super easy! Here is a simple example of specifying a to-be-randomised condition list with code:
 
-![Downloading%20a%20lot%20of%20resources%20ce72cb797d5c41e5b5f4b26956ff3b09/Untitled.png](Downloading%20a%20lot%20of%20resources%20ce72cb797d5c41e5b5f4b26956ff3b09/Untitled.png)
-
 Python:
 
 ```python

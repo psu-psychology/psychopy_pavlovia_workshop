@@ -19,4 +19,4 @@ Instructions for installing PsychoPy on Mac OS and Windows can be found in [this
 - [rate_images/](rate_images) shows a PsychoPy study with components that gather image rates. --by Allison Link
 - [load_resources_faster/](load_resources_faster) contians a guide for a workaround regarding the resource downloading bottleneck when the experiment initiates --by Joyce Tam
 - [set_sona_url/](set_sona_url) contains step-by-step guides for setting experiment and redirection URLs specific to experiments that require counterbalancing versus not --by Joyce Tam
-- [This PDF](pdf/Python to PsychoJS Cheatsheet.pdf)explains how to utilize the custom code component in PsychoPy and provides helpful sample code in Python along side its PsychoJS translation
+- [This PDF](pdf/Python_to_PsychoJS_Cheatsheet.pdf) explains how to utilize the custom code component in PsychoPy and provides helpful sample code in Python along side its PsychoJS translation

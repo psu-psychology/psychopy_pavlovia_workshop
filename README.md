@@ -15,7 +15,7 @@ Instructions for installing PsychoPy on Mac OS and Windows can be found in [this
 
 - [connect_to_local_env/](connect_to_local_env) contains step-by-step guides to push and pull from Pavlovia GitLab, to and from your local disk. --by Joyce Tam
 - [consent_form/](consent_form) shows a PsychoPy study with components that collect participant consent. --by Allison Link
-- [headphone_check/](headphone_check) shows a PsychoPy study with components that check whether a participant has headphones on. --by Allison Link
+- [headphone_check/](headphone_check) shows a PsychoPy study with components that check whether a participant has headphones on. --by Allison Link, Originially Developed by the McDermott Lab (https://github.com/mcdermottLab/HeadphoneCheck#code-overview)
 - [rate_images/](rate_images) shows a PsychoPy study with components that gather image rates. --by Allison Link
 - [load_resources_faster/](load_resources_faster) contians a guide for a workaround regarding the resource downloading bottleneck when the experiment initiates --by Joyce Tam
 - [set_sona_url/](set_sona_url) contains step-by-step guides for setting experiment and redirection URLs specific to experiments that require counterbalancing versus not --by Joyce Tam

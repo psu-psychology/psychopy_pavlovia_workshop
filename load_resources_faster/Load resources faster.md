@@ -160,7 +160,7 @@ var img;
 function load_image(src) {
   img = document.createElement("img");
   img.src = 'resources/'+src;
+  console.log('loaded',src);
   return img
-	console.log('loaded',scr);
 }
 ```
